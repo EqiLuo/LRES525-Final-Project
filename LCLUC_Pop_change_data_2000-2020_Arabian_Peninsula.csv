@@ -1,0 +1,26 @@
+,class_2000,class_2020,area_change,LCLUC_Code,Pop_Change
+0,Built Up,Built Up,54343.01,11,36670160.0
+1,Cropland,Built Up,15062.21,21,4058121.2
+2,Vegetation,Built Up,23692.01,31,9238367.0
+3,Barren,Built Up,38234.15,41,31553784.0
+4,Water,Built Up,267.28,51,93470.66
+5,Built Up,Cropland,0.0,12,
+6,Cropland,Cropland,278710.18,22,1009902.2
+7,Vegetation,Cropland,30913.65,32,161893.73
+8,Barren,Cropland,66336.35,42,122450.92
+9,Water,Cropland,376.2,52,801.1794
+10,Built Up,Vegetation,0.0,13,
+11,Cropland,Vegetation,14409.87,23,210865.92
+12,Vegetation,Vegetation,496751.47,33,3359766.2
+13,Barren,Vegetation,21993.63,43,255800.92
+14,Water,Vegetation,665.77,53,1422.0834
+15,Built Up,Barren,0.0,14,
+16,Cropland,Barren,28629.73,24,329545.56
+17,Vegetation,Barren,15187.96,34,585251.5
+18,Barren,Barren,5732847.47,44,10315752.0
+19,Water,Barren,5939.56,54,20597.023
+20,Built Up,Water,0.0,15,
+21,Cropland,Water,671.62,25,4881.5376
+22,Vegetation,Water,2496.85,35,8233.131
+23,Barren,Water,14785.49,45,25723.996
+24,Water,Water,144044.45,55,77529.82
